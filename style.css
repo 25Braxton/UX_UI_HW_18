@@ -54,3 +54,7 @@ padding: 0%;
     width: auto;
 }
  
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+}
